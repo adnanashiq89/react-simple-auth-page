@@ -1,0 +1,33 @@
+.ant-layout-header {
+  background-color: white !important;
+}
+
+.ant-menu-horizontal {
+  display: flex;
+  justify-content: center;
+  border-bottom: none;
+}
+
+.ant-menu-item {
+  font-size: 14px;
+  padding: 0 16px;
+}
+
+.ant-card-meta-title {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.ant-card-meta-description {
+  font-size: 14px;
+  color: gray;
+}
+
+.carousel .slick-slide {
+  text-align: center;
+}
+
+.carousel .slick-slide img {
+  width: 100%;
+  height: auto;
+}
